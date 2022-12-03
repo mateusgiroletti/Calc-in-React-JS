@@ -10,7 +10,7 @@ The project contains only one screen, the calculator itself.
 
 ## Test the project yourself
 
-To run the project locally just clone the repository and run the following commands.
+To run the project locally just clone the repository and run the following commands. You can use the app [here](https://mateusgiroletti.github.io/Calc-in-React-JS/)
 
 Clone on your machine:
 
